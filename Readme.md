@@ -1,6 +1,6 @@
 # Hello and welcome to the shopping list !
 
-![gif](https://giphy.com/gifs/shopping-DZgUVLxzMoAwg)
+![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW95YXp4N3Awb2ttOTk1NWV0azZ5dXJua2FjY2QwY3J5aWFxMWcxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZgUVLxzMoAwg/giphy.gif)
 
 This is my first 'big' project on JS ! I learn a lot and i hope i can learn more by improvement !
 
