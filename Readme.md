@@ -1,34 +1,32 @@
 # Mehdi futur développer
----
 
 Je suis grand et blond
 
 ## 3 Skill 
----
+
 1. Je suis monteur
 2. Je sais conduire tout type de machine de chantier
 3. J'adore apprendre
 
 ## Ce que j'aime le plus
----
+
 1. Les pâtes
 2. Le hardware
 3. Le café
 
 ## Ce que je voudrais acomplir après Becode
----
+
 Travailler en remote et par la suite devenir indépendant.
 
 ## Les peurs que je peux avoir
----
+
 Rater mon train
 
 ## Les choses que j'attends
----
+
 Découvrir par quelle projet je vais commencé dans la formation !
 
 ## Les 3 choses que j'aime le plus dans le travail d'équipe
----
 
 1. L'apprentissage
 2. L'aspect social
