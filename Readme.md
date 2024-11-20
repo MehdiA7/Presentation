@@ -1,5 +1,7 @@
 # Hello and welcome to the shopping list !
 
+![gif](https://giphy.com/gifs/shopping-DZgUVLxzMoAwg)
+
 This is my first 'big' project on JS ! I learn a lot and i hope i can learn more by improvement !
 
 ### I learned
