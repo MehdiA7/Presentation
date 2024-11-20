@@ -1,6 +1,6 @@
 # Mehdi futur développer
 
-Je suis grand et blond
+Je suis géant et roux
 
 ## 3 Skill 
 
