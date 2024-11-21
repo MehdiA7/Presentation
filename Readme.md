@@ -4,7 +4,7 @@ Je suis géant et roux
 
 ## 3 Skill 
 
-1. Je suis monteur de voiture
+1. Je suis monteur de chapiteaux 
 2. Je sais conduire tout type de machine de chantier
 3. J'adore apprendre
 
