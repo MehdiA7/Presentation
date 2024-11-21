@@ -10,7 +10,7 @@ Je suis géant et roux
 
 ## Ce que j'aime le plus
 
-1. Les pâtes
+1. Les pâtes (c'est top ça)
 2. Le hardware
 3. Le café
 
